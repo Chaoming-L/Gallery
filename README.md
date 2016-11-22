@@ -7,7 +7,7 @@ one photo gallery project based on react
 
 或者点击下面在线预览的地址
 
-https://Daomon-L.github.io/gallery-by-react/dist/index.html
+https://Daomon-L.github.io/React/dist/index.html
 
 所用技术栈 React、webpack、sass、ES6
 
