@@ -7,9 +7,9 @@ one photo gallery project based on react
 
 或者点击下面在线预览的地址
 
-https://3terrace.github.io/gallery-by-react/dist/index.html
+https://Daomon-L.github.io/gallery-by-react/dist/index.html
 
-所用技术栈 React、webpack、sass、ES6，如果npm也算
+所用技术栈 React、webpack、sass、ES6
 
 因为前端工具改版太大，加上React也全面升级为ES6，所以踩过不少坑
 
