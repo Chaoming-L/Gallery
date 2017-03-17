@@ -7,7 +7,7 @@ one photo gallery project based on react
 
 或者点击下面在线预览的地址
 
-https://chaoming56.github.io/React/dist/index.html
+https://chaoming56.github.io/Gallery/dist/index.html
 
 所用技术栈 React、webpack、sass、ES6
 
